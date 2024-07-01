@@ -1,2 +1,2 @@
 # Mabes_2024
-project github pertama rangga pkl(media penyimpanan programmer)
+project github rangga pkl(media penyimpanan programmer)
